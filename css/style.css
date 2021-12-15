@@ -1238,10 +1238,17 @@ body {
 
 @media only screen and (max-width: 1460px) {
   .video-responsive {
-    width: 80%;
+    width: 62%;
   }
   .video-responsive.active1.active2 {
-    width: 96%;
+    width: 88%;
+  }
+  .video-responsive.active1 {
+    width: 71%;
+    margin: 0 auto;
+  }
+  .video-responsive.active2 {
+    width: 77%;
   }
 }
 
